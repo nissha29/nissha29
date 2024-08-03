@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/nisha_297" target="blank"><img src="https://img.shields.io/twitter/follow/nisha_297?logo=twitter&style=for-the-badge" alt="nisha_297" /></a> </p>
 
+<img align="right" width="400" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU"/>
+
 - 🌱 I’m currently learning **React**
 
 - 📝 I write articles on [https://medium.com/@nishakashyap2907](https://medium.com/@nishakashyap2907)
