@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nisha_297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nisha_297" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nisha kashyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nisha kashyap" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nisha-kashyap-5972a9273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nisha kashyap" height="30" width="40" /></a>
 <a href="https://instagram.com/29nissha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="29nissha" height="30" width="40" /></a>
 <a href="https://medium.com/@nishakashyap2907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="nishakashyap2907" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/_nissha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_nissha_" height="30" width="40" /></a>
