@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Nisha</h1>
+<h3 align="center">A passionate developer from India</h3>
+</p>
+
 # 💫 About Me:
 🌱 I’m currently learning Backend<br><br>📝 I write articles on https://medium.com/@nishakashyap2907<br><br>💬 Ask me about DSA.<br><br>📫 How to reach me nishakashyap2907@gmail.com<br><br>⚡ Fun fact Chai is a developer's best friend.
 
