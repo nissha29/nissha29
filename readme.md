@@ -3,7 +3,7 @@
 </p>
 
 # ⚡ About Me:
-🌱 I’m currently learning Backend Stuff<br><br>💬 Ask me about DSA.<br><br>📫 How to reach me nishakashyap2907@gmail.com<br><br>⚡ Fun fact Chai is a developer's best friend.
+🌱 I’m currently learning Next.js<br><br>💬 Ask me about DSA.<br><br>📫 How to reach me nishakashyap2907@gmail.com<br><br>⚡ Fun fact Chai is a developer's best friend.
 
 
 ## 🌐 Socials:
